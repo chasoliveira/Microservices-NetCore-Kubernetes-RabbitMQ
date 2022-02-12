@@ -1,11 +1,18 @@
-# Microservices NetCore, Kubernetes, Message
+# Microservices NetCore, Kubernetes, RabbitMQ
 
 Hi, before you keep going further into this project, I would like to let you that I watched this amazing video from 
-[Les Kacson](https://youtu.be/DgVjEo3OGBI)'s channel on Youtube, So I recommend you to go there and leave yours like too.
+[Les Jakcson](https://youtu.be/DgVjEo3OGBI)'s channel on Youtube, So I recommend you to go there and leave yours like too.
 
 I created this documentation based on his slide on the video, also the project was created only by watching, but you can find his original project on his [GitHub](https://github.com/binarythistle/S04E03---.NET-Microservices-Course-)
 
 Also take a moment to contribute on his [Patreon Site](https://www.patreon.com/binarythistle)
+
+• Building two .NET Microservices using the REST API pattern
+• Working with dedicated persistence layers for both services
+• Deploying our services to Kubernetes cluster
+• Employing the API Gateway pattern to route to our services
+• Building Synchronous messaging between services (HTTP & gRPC)
+• Building Asynchronous messaging between services using an Event Bus (RabbitMQ)
 
 ## What are Microservices
 
